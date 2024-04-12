@@ -11,7 +11,7 @@ spl_token = "5iXkkKneqKpEBrdaTbD7MKBr6WhoJqeoR55ohCLp3qTc"
 url = "https://api.apr.dev"
 
 [provider]
-cluster = "Localnet"
+cluster = "devnet"
 wallet = "/Users/pidorasik/.config/solana/id.json"
 
 [scripts]
